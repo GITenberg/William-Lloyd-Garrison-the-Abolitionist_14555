@@ -1,0 +1,33 @@
+_repo: William-Lloyd-Garrison-the-Abolitionist_14555
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Grimké, Archibald Henry
+    aliases:
+    - Grimke, Archibald Henry
+    - Grimké, Archibald H.
+    birthdate: 1849
+    deathdate: 1930
+    gutenberg_agent_id: '5574'
+    url: http://www.gutenberg.org/2009/agents/5574
+    wikipedia: http://en.wikipedia.org/wiki/Archibald_Grimke
+description: ''
+gutenberg_bookshelf:
+- Biographies
+- Slavery
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14555'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E300'
+- !lcsh 'Garrison, William Lloyd, 1805-1879'
+title: William Lloyd Garrison, the Abolitionist
+url: http://www.gutenberg.org/ebooks/14555
